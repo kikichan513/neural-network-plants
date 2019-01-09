@@ -1,7 +1,3 @@
-# Name: Chan Hiu Ki (Ki Ki)
-# UTLN: hchan03
-# Class: Comp131 AI
-# Problem Set 4
 
 ----------------------------------------------------------------------
 How to run code:
